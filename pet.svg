@@ -1,3 +1,4 @@
+<!-- stale marker for permission test -->
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="229" viewBox="0 0 300 229" role="img" aria-label="Tavuplam, a gitagotchi">
 <title>Tavuplam — @wjames111&#8217;s gitagotchi</title>
 <style>#blink{opacity:0;animation:bl 4.6s step-end infinite}@keyframes bl{0%,91%{opacity:0}91.01%,96%{opacity:1}96.01%,100%{opacity:0}}</style>
